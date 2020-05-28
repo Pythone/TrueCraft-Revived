@@ -1,3 +1,4 @@
+# this is forked to revive it!!! TrueCraft REVIVED buillds are not available yet! Check out ClassiCube, Minetest, or [official classic minecraft](https://classic.minecraft.net) if you want to play MC Classic
 <p align="center">
     <img src="https://sr.ht/3O-k.png" width="728" />
 </p>
